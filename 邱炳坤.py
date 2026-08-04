@@ -7,7 +7,7 @@
 
 本程式碼為開源專案 邱炳坤 計畫之一部分，採用 GPL-3.0 授權。
 
-Copyright (C) 2026  二兒子
+Copyright (C) 2026  許木
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
