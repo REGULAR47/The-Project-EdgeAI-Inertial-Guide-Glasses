@@ -22,5 +22,5 @@
 * **智慧眼鏡開放 API 開發者**
 ---
 Honorary Founder (榮譽發起人)： 邱炳坤 
-Project Maintainer (專案維護者)：二兒子
+Project Maintainer (專案維護者)：許木
 AI Technical Assistant (技術協作)：Claude (由發起人引導架構設計)
