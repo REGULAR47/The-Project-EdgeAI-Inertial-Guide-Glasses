@@ -26,3 +26,5 @@ Honorary Founder (榮譽發起人)：邱炳坤
 Project Maintainer (專案維護者)：許木
 
 AI Technical Assistant (技術協作)：Claude (由發起人引導架構設計)
+
+          ** AI 輔助產出之程式碼依 GPL-3.0 釋出，專案維護與法律責任由人類團隊承擔 **
